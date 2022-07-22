@@ -4,8 +4,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=justundertaker&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 
-- 😜身为一个游戏策划，会玩游戏，很合理吧！
-- 😲身为一个游戏策划，会学python，也很合理吧！
+- 😜身为游戏策划，会玩游戏，很合理吧！
+- 😲身为游戏策划，会学python，也很合理吧！
 - 😄那结合起来，写个游戏机器人也非常合理吧！
 
 💬**联系我**：网络世界，没事就别联系了😜。
