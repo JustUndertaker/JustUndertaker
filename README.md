@@ -9,5 +9,5 @@
 
 ### 💬联系我：没事就别联系了😜
 
-### 😩 人生苦短，我用python：![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+😩 **人生苦短，我用![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)**
 
