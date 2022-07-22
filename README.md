@@ -1,5 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=print('hello world!');人生苦短，我用python!&size=27">
-
 #  🙋 Hello
 <p>✍️&nbsp;&nbsp;我是一个小白白白! 目前是名游戏策划，喜欢学习一些编程知识!</p>
 
